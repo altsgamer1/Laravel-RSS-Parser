@@ -92,7 +92,7 @@ class Kernel extends ConsoleKernel
 					'response_body' => $response->body(),
 				]
 			);
-        })->everyMinute(); //частота запросов парсера
+        })->everyThirtyMinutes(); //частота запросов парсера
     }
 
     /**
