@@ -20,4 +20,4 @@ php artisan schedule:work
 ```
 
 ## Result
-See **Feeds** and **Logs** tables
+See **feeds** and **logs** tables
