@@ -1,4 +1,4 @@
-# FeedReader - Laravel 8 & MySQL RSS Parser
+# Laravel RSS Parser
 
 ## Installation
 ```
